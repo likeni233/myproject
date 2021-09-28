@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="hello">input RMB</string>
+    <string name="height">输入身高</string>
+    <string name="weight">输入体重</string>
+    <string name="aa">计算BIM</string>
+    <string name="input_rmb">RMB</string>
+</resources>
