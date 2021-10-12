@@ -1,8 +1,15 @@
 <resources>
     <string name="app_name">Second</string>
     <string name="hello">input RMB</string>
+    <string name="BIM">BIM计算器</string>
     <string name="height">输入身高</string>
     <string name="weight">输入体重</string>
     <string name="aa">计算BIM</string>
-    <string name="input_rmb">RMB</string>
+    <string name="teama_label">TeamA</string>
+    <string name="points1_label">+1</string>
+    <string name="points2_label">+2</string>
+    <string name="points3_label">+3</string>
+    <string name="teamb_label">TeamB</string>
+    <string name="reset_label">Reset</string>
+    <string name="score0">0</string>
 </resources>
