@@ -12,4 +12,6 @@
     <string name="teamb_label">TeamB</string>
     <string name="reset_label">Reset</string>
     <string name="score0">0</string>
+    <string name="hp">happy birthday!</string>
+    <string name="sign">from Likeni</string>
 </resources>

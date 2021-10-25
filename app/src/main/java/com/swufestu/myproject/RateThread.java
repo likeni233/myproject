@@ -46,34 +46,6 @@ public class RateThread implements Runnable{
         String url=null;
         bundle=new Bundle();
         try {
-//
-//
-//                //获得表格内容
-//                Elements tables=doc.getElementsByTag("table");//集合对象
-//                Element table2=tables.get(1);
-//                Log.i(TAG, "run: table="+table2);
-//
-////            Elements trs=table2.getElementsByTag("tr");
-////            for(Element tr:trs){
-////                Log.i(TAG, "run: tr="+tr);
-////            }
-//
-//                Elements hrefs=table2.getElementsByTag("a");
-//                for(Element href:hrefs){
-//                    Log.i(TAG, "run: href="+href.text());
-//                }
-//
-//
-//                Elements trs=table2.getElementsByTag("tr");
-//                trs.remove(0);
-//                for(Element tr:trs){
-//                    Elements tds=tr.getElementsByTag("td");
-//                    String cname=tds.get(0).text();
-//                    String cval=tds.get(5).text();
-//                    Log.i(TAG, "run: "+cname+"==>"+cval);
-//                    retlist.add(cname+"==>"+cval);
-//
-//                }\
             url=" https://www.boc.cn/sourcedb/whpj/ ";
             Document doc= Jsoup.connect(url).get();
             //获得页面元素

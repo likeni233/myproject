@@ -12,7 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Myproject"
         android:usesCleartextTraffic="true">
-
+        <activity
+            android:name=".Card"
+            android:exported="true" />
+        <activity
+            android:name=".MyAdapter"
+            android:exported="true" />
+        <activity
+            android:name=".RateList2Activity"
+            android:exported="true" />
         <activity
             android:name=".RateListActivity"
             android:exported="true" />

@@ -4,15 +4,19 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/myproject/app/src/main/res/layout/activity_SingleTeam.xml" value="0.25364583333333335" />
+        <entry key="..\:/myproject/app/src/main/res/layout/activity_card.xml" value="0.4036281179138322" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_change.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_main2.xml" value="0.25364583333333335" />
+        <entry key="..\:/myproject/app/src/main/res/layout/activity_my_adapter.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_rate_list.xml" value="0.25364583333333335" />
+        <entry key="..\:/myproject/app/src/main/res/layout/activity_rate_list2.xml" value="0.23802083333333332" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_rate_thread.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_score.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_show.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_single_team.xml" value="0.25364583333333335" />
         <entry key="..\:/myproject/app/src/main/res/layout/activity_singleteam.xml" value="0.25364583333333335" />
+        <entry key="..\:/myproject/app/src/main/res/layout/list_item.xml" value="0.23802083333333332" />
       </map>
     </option>
   </component>
